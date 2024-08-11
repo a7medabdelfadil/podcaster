@@ -35,11 +35,14 @@ const config = {
           6: "#24272C",
         },
         orange: {
-          1: "#F97535",
+          1: "#2563EB", // #F97535
         },
         gray: {
           1: "#71788B",
         },
+        blue: {
+          1: "#2563EB"
+        }
       },
       backgroundImage: {
         "nav-focus":
